@@ -9,7 +9,7 @@ When a non-caller thinks about what it takes to be a square dance caller, they u
 1. Get over the nerves that you have using a microphone in front of other people and making very public mistakes.     
 2. Learning and performing a singing call.    Working on singing.   Your singing call will have a memorized (or read) figure.    Getting smooth with that.    
 3. Learning a few modules (calls that are used together as a group)  
-4. Learning how to deal with sound, music, applications like CallerBuddy, SqView etc.   In other words learning the nuts and bolts of performing on your own (rather than just a guest caller with other’s equipment and music)).    
+4. Learning how to deal with sound, music, applications like CallerBuddy, SqView etc.   In other words learning the nuts and bolts of performing on your own (rather than just a guest caller with others’ equipment and music).    
 5. Learning how to resolve.  
 6. Learning about flow, hand issues and other subtleties associated with choreography
 

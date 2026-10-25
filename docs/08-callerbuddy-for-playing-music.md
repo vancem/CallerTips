@@ -13,7 +13,7 @@ When you call, you need to play music.   Now in theory you can use a standard au
 5. **It has a helpful timer for your patter (you should keep patter less than 10 min long, 5-8 min is probably ideal), as well as a  5 min timer for breaks between tips.**  
 6. **It has the singing call progress monitor** at the bottom so you can remind yourself which figure you are on in the singing call.     
 7. **All your songs are in one place**, and you can easily separate your patter and singing calls (so you can find them quickly).    
-8. **It remembers all the changes to tempo, pitch, auto-repeat, lyric tweeks\*+**, and other preferences you set so that your music is always optimal.  
+8. **It remembers all the changes to tempo, pitch, auto-repeat, lyric tweaks**, and other preferences you set so that your music is always optimal.  
 
 There are a number of song players for square dance callers including [SqView](https://www.sqview.se/download.php), but the one I want to suggest here is called CallerBuddy.    If you type ‘CallerBuddy’ into a search engine you should find the following link: 
 
@@ -23,13 +23,13 @@ Here are some of the features that distinguish it from SqView and the others:
 
 * It is absolutely FREE, it even comes with a **FREE demo patter and singing call**.  
 * **Setup is trivial**, if you click the link above you are running CallerBuddy in the browser.    
-* Works on **Windows**, **MacOS**, **Chromebooks**, **Android** phones (sorry no IPhone or IPad).  
+* Works on **Windows**, **macOS**, **Chromebooks**, **Android** phones (sorry no iPhone or iPad).  
 * **Works offline** so you can play music without network access (even in the browser)  
 * **Music can be in the cloud**, safe and available anywhere, but available offline.  
 * Tracks what music you have used recently, so you don’t repeat yourself.  
 * **Adding songs is trivial** (point it at the ZIP you bought, 90% of the work is done).
 
-These features may not seem like a big deal to you, but you don’t realize the pain you are avoiding (especially when adding songs, and worrying about backup). I used to have a section on SqView in this document, and it was 25 pages long\!  It was not trivial to set up and load with songs.   CallerBuddy removes most of this friction (along with making using both laptop and phone WITHOUT having multiple copies of your library of songs).   
+These features may not seem like a big deal to you, but you don’t realize the pain you are avoiding (especially when adding songs, and worrying about backup). I used to have a section on SqView in this document, and it was 25 pages long\!  It was not trivial to set up and load with songs.   CallerBuddy removes most of this friction (along with letting you use both a laptop and a phone WITHOUT having multiple copies of your library of songs).   
 
 ## Try out the Free CallerBuddy Patter and Singing Call
 

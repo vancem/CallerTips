@@ -20,13 +20,13 @@ When you do a ‘Head Square Thru 4’ (h sq4)  you bring the square to a format
 
 Notice that from a corner box if the  heads were to ‘face in’ and step back you would reform the squared set.   Thus a h-sq4 just ‘squishes’ the square without actually changing the order of anything.    Thus the square is not really messed up at all.   
 
-Our goal initially is to see if we can make choreography that LOOKS like it is messing up the square but is not REALLY messing up the square.    That way we as a caller are ‘IN CONTROL’ but the dancers don’t recognise that they are really following a very simple pattern.   The simplest way of ‘slightly messing up a square’ is to have heads promenade half.    Here is what this looks like and what happens after we do a h-sq4 after the h-prom-½ 
+Our goal initially is to see if we can make choreography that LOOKS like it is messing up the square but is not REALLY messing up the square.    That way we as a caller are ‘IN CONTROL’ but the dancers don’t recognize that they are really following a very simple pattern.   The simplest way of ‘slightly messing up a square’ is to have heads promenade half.    Here is what this looks like and what happens after we do a h-sq4 after the h-prom-½. 
 
 | After H PROM ½                        | After H PROM ½; SQ4                        |
 |:---:|:---:|
 | ![After H PROM ½](images/after-h-prom-half.png) | ![After H PROM ½; SQ4](images/after-h-prom-half-sq4.png) |
 
-In square dance each man  has his partner, corner (to his left) opposite (across) and right and lady (to his right past his partner).  When we have the heads promenade ½ it sets it up so that everyone is near their ‘right hand’ person.   Notice that a h-sq4 again just ‘squishes’ the square.   So this square is ‘messed up’ but not by much (you are only a promenade ½ from being in order).  
+In square dance each man has his partner, corner (to his left), opposite (across), and right-hand lady (to his right past his partner).  When we have the heads promenade ½ it sets it up so that everyone is near their ‘right hand’ person.   Notice that a h-sq4 again just ‘squishes’ the square.   So this square is ‘messed up’ but not by much (you are only a promenade ½ from being in order).  
 
 This formation is called being ‘**across the street**’  because if the sides were the street, the heads crossed to the other side of that street.    Notice all we needed to do to get there is ONE CALL (promenade ½), so it is EASY to get across the street.   Notice that if the caller called an ‘allemande left’ from ‘across the street’, everyone would get their partner back but someone (head or sides), would have to promenade through the middle (effectively doing a promenade ½) to get home properly.    You have undoubtedly been in squares where this has happened, as it is BY FAR the most common way resolution fails.   
 
@@ -54,7 +54,7 @@ Congratulations!  You have made your first very nice patter sequence (this one t
 
 Sequences that take you from a corner box to ‘across the street’ for historical reasons are called ‘chicken pluckers’.   The story I have heard (and I DON’T vouch for its authenticity), is that hay balers were called ‘chicken pluckers’ because they had arms that compressed the hay that looked like they were grabbing feathers and flinging them out (the hay balers were probably shedding fragments of hay that suggested this).     One of the most common ‘across the street’ sequences in the early days of square dancing was ‘**right and left thru; dive thru; centers pass thru**’.   This sequence makes the dancers bob up and down (because of the dive thru), and some caller thought the dancers reminded him of a hay baler in operation so he called the sequence a chicken plucker, and the name stuck.  
 
-Note that there is some ambiguity among callers whether a chicken plucker is a sequence that **just** takes you across the street, or whether it is a sequence that takes you across the street **and back again**.    Thus some callers might say it is a ½ of a chicken plucker that takes you across the street.     
+Note that there is some ambiguity among callers whether a chicken plucker is a sequence that **just** takes you across the street, or whether it is a sequence that takes you across the street **and back again**.    Thus some callers might say it is ½ of a chicken plucker that takes you across the street.     
 
 In this document I will uniformly use the term ‘Chicken Plucker’ (abbreviated CKP) to be a sequence that takes a SQ4 formation (a corner box) to **just** across the street (**not** there and back).    Thus in this document,  **rlt; pt; tb;** is a CKP.   (it is probably the most common chicken plucker).  
 
@@ -62,7 +62,7 @@ In this document I will uniformly use the term ‘Chicken Plucker’ (abbreviate
 
 When I first learned to call I NEVER used **square thru 2**.   However then I realized something 
 
-**Sq2 equivalent to a Sq4 and a CKP (chicken plucker)**
+**Sq2 is equivalent to a Sq4 and a CKP (chicken plucker)**
 
 That is if you want to QUICKLY get ‘across the street’ it is HARD TO BEAT sq2.   For example
 
@@ -77,7 +77,7 @@ Or
 ```
 h prom ½;       - get across the street;
 h sq2;          - get back
-rlt pt; tb;     - go across again
+rlt; pt; tb;     - go across again
 rlt; pt; tb;    - go back (again)
 al              - allemande left (to finish it off)
 ```
@@ -89,7 +89,7 @@ Thus you can fix the previous sequence to be
 ```
 h prom ½;      - get across the street;
 h sq2;         - get back
-rlt pt; tb;    - go across again
+rlt; pt; tb;    - go across again
 sq3; tb;       - go back (again)    (33 beats  to get here)
 al             - allemande left (to finish it off)
 ```
@@ -115,29 +115,29 @@ Once you know these there is a general strategy to make a patter sequence
 
 To do this well we need some Zero sequences, and it would not hurt to have some more CKP sequences as well.     
 
-Well if you know some singing call figures (and you should have memorized 6 of them already, you can ‘mine’ them for zeros and CKP sequences.   For example take the following example 
+Well if you know some singing call figures (and you should have memorized 6 of them already), you can ‘mine’ them for zeros and CKP sequences.   For example take the following example 
 
 ```
-h sq2; st; br; circ; cdtl; fl saq;
+h sq2; st; br; circ; cdtl; fl; saq;
 ```
 
 Which happens to be the SQ2-CDTL-FL figure in  [Square Dance Figures](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit?usp=sharing).   Notice it begins with SQ2 (so the rest of the sequence starts across the street), and it ends in a corner box (because the spreadsheet’s ‘End’ column is c-box) which means you are facing your corner.     Thus the sequence without the sq2:
 
 ```
-st; br; circ; cdtl; fl saq;
+st; br; circ; cdtl; fl; saq;
 ```
 
-Is a sequence that starts ‘across the street’ and ends facing your corner.   But a sequence that does this is a Chicken Plucker (CKP).   Thus we have found a NEW CKP sequence ‘hiding’ in our singing call.   And we have ALREADY memorized this sequence because it is a good singing call     SCORE   
+Is a sequence that starts ‘across the street’ and ends facing your corner.   But a sequence that does this is a Chicken Plucker (CKP).   Thus we have found a NEW CKP sequence ‘hiding’ in our singing call.   And we have ALREADY memorized this sequence because it is a good singing call. SCORE   
 
 And it gets better.   If you stack two CKP sequences together, they go across the street and come back, which is a ZERO.    Thus we could turn the sequence above into a ZERO by putting another CKP sequence either in front of it or behind it.   For example
 
 ```
-rlt; pt; tb;      st; br; circ; cdtl; fl saq;
+rlt; pt; tb;      st; br; circ; cdtl; fl; saq;
 ```
 
 Is a zero because it is simply two CKP sequences back to back.   
 
-So we can find CKP sequences in figures that begin with SQ2.   If figures begin with SQ4 (or with prom ½; sq2, which we know does the same thing (across the street and back)), we can find ZEROS.   .  For example another sequence from [Square Dance Figures](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit?usp=sharing) is PROM-RFL
+So we can find CKP sequences in figures that begin with SQ2.   If figures begin with SQ4 (or with prom ½; sq2, which we know does the same thing (across the street and back)), we can find ZEROS. For example another sequence from [Square Dance Figures](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit?usp=sharing) is PROM-RFL
 
 ```
 h prom 1/2; h sq2; rlt; vl; btl; rfl; sl;
@@ -157,7 +157,7 @@ So in short those 4 singing call figures you memorized will come in quite handy 
 
 ## Leveraging the ‘ocean wave-facing couples’ rule
 
-Most of us know the ‘ocean wave-facing couples’ rule that states that things that can be done from waves can be done from facing couples (without calling step to a wave) or vice versa.  The intuition behind this that ‘step to a wave’ requires almost no movement so it is not surprising that the two positions are considered equivalent.   We can use this to get even more CKPs and zeros (starting or ending with waves instead of boxes (facing couples).   For example the sequence **h-sq2** leads to the **left** formation below if we then **step to a wave** we get the formation on the **right**.  
+Most of us know the ‘ocean wave-facing couples’ rule that states that things that can be done from waves can be done from facing couples (without calling step to a wave) or vice versa.  The intuition behind this is that ‘step to a wave’ requires almost no movement so it is not surprising that the two positions are considered equivalent.   We can use this to get even more CKPs and zeros (starting or ending with waves instead of boxes (facing couples)).   For example the sequence **h-sq2** leads to the **left** formation below if we then **step to a wave** we get the formation on the **right**.  
 
 | After a H SQ2                        | After H SQ2; Step to a Wave                        |
 |:---:|:---:|
@@ -190,9 +190,9 @@ You now have MANY building blocks in which to ‘play’ with patter modules.   
 
 ## Foolproof resolution - two couple resolution
 
-Using modules and CKP sequences is a GREAT way to call patter, however because you are constantly going ‘across the street’ it is VERY EASY to forget which side of the street you are on (do not underestimate the likelihood of this happening, it happens to EVERYONE).  If you can REMEMBER your head couple and that man’s corner, you can always know what side of the street the formation is in by simply looking if the head man is ‘next’ to his corner (in which case is he is not across the street) or not (in which case he is).   Thus you HAVE to DEVELOP the DISCIPLINE of reminding yourself every few calls where your focus couple and his corner is.   If you can do this reliably, you are home free.   
+Using modules and CKP sequences is a GREAT way to call patter, however because you are constantly going ‘across the street’ it is VERY EASY to forget which side of the street you are on (do not underestimate the likelihood of this happening, it happens to EVERYONE).  If you can REMEMBER your head couple and that man’s corner, you can always know what side of the street the formation is in by simply looking if the head man is ‘next’ to his corner (in which case he is not across the street) or not (in which case he is).   Thus you HAVE to DEVELOP the DISCIPLINE of reminding yourself every few calls where your focus couple and his corner is.   If you can do this reliably, you are home free.   
 
-But if you are calling modules you also have to remember your ZERO and CKP sequence correctly.   Thus there is definitely room for error when you call patter using modules.  Once you have made a mistake there is no way of correcting it (unless you know how to resolve)  
+But if you are calling modules you also have to remember your ZERO and CKP sequence correctly.   Thus there is definitely room for error when you call patter using modules.  Once you have made a mistake there is no way of correcting it (unless you know how to resolve).  
 
 Sometimes you want something that is more ‘foolproof’.  The good news is such a technique exists.  The idea is to simplify things so that you only have to remember JUST ONE COUPLE.   Because dancers often dress alike you often don’t even have to remember anything (the clothing does it for you).   You also only need this one couple ON THE WHOLE FLOOR.   Typically this is easy to find (you either know a couple who is dancing together or you can use clothing to match the couple).   
 
@@ -212,7 +212,7 @@ The basic idea behind this way of calling is to divide the square in two and nev
 
 Notice that this technique has a couple nice properties
 
-1. You only have to remember one couple (you don’t have to remember a corner because  you always keep your corner ‘near’ your focus couple and thus if you can get your focus couple on the ends, you will be resolved.
+1. You only have to remember one couple (you don’t have to remember a corner because  you always keep your corner ‘near’ your focus couple and thus if you can get your focus couple on the ends, you will be resolved).
 2. You can call A LOT of choreography with just those 4 people.   Probably 80% of all mainstream calls can be called with just 4 people (not allowing them to ‘escape’)
 
 So all we need is a technique for going from an arbitrary formation of 4 people, to boxes with the focus couple on the end.    We do this in two steps:
@@ -222,8 +222,8 @@ So all we need is a technique for going from an arbitrary formation of 4 people,
 
 Note that step 1 you probably will happen by accident if you just keep calling legal calls.  Pretty quickly one of the formations will be lines facing in.    However if you want more explicit instructions
 
-1. First, avoid sashaying your dancers.   This means no girls-run, box–the-gnats’, u-turn-back, or half sashays.   Your beginner dancers will thank you.
-2. If the girls and boys are not facing the same direction, a boy-run will is your go-to call to get the girls and boys facing the same direction.
+1. First, avoid sashaying your dancers.   This means no girls-run, box the gnat, u-turn-back, or half sashays.   Your beginner dancers will thank you.
+2. If the girls and boys are not facing the same direction, a boy-run is your go-to call to get the girls and boys facing the same direction.
 3. If everyone is facing out, a partner trade will get them facing in.
 4. If your group of 4 is in an ocean wave with the boys on each end, the REC; SAQ; (recycle, sweep a quarter) will bring them to lines facing in.   (ST; BR; BTL; will work as well).   If the boys are in the center of an ocean wave, a BR-BTL will get you to lines.
 
@@ -239,7 +239,7 @@ Thus ALL WE NEED is a way of turning the first possibility (Couple together) int
 
 Thus our algorithm is to get the square to lines facing in.  Then: 
 
-1. If the focus couple is beside each other (couple-beside) do a RLT; FL;   This will lead to the focus couple to be facing each other (either ends or centers).
+1. If the focus couple is beside each other (couple-beside) do a RLT; FL;   This will lead the focus couple to be facing each other (either ends or centers).
 2. If the focus couple is facing in the centers, do a RLT to get the focus couple to the ends (still facing each other).
 3. Do a SRT to resolve the square.   Follow with an allemande left, promenade.
 
@@ -264,19 +264,19 @@ There are other calls besides FL (Flutterwheel) that can get the focus couple fr
 4. FL;  (Flutterwheel)  
 5. RFL;  (Reverse Flutterwheel)  
 6. SAQ (Sweep a Quarter)  
-7. C TD (Centers Trade (of a wave or two-faced line)  
+7. C TD (Centers Trade (of a wave or two-faced line))  
 8. REC (Recycle)  
 9. WAD (Walk and Dodge)  
 10. SCIRC (Split Circulate)
 
-Note also  these calls move from couple-facing-to-couple-beside AND BACK, so a figure with TWO of these will  cancel out (thus ZEROs tend to have an EVEN number of these calls in them (check out the figures in [Square Dance Figures](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit?usp=sharing) and see).   In particular if you flutterwheel (or reverse flutterwheel) and call sweep a quarter, the two ‘cancel out’ and you will NOT change the couple-facing-to-couple-beside property.   Thus instead of **right and left thru; flutterwheel**, you could use recycle (e.g. **pass the ocean; recycle; star thru)** or wheel and deal (e.g. **pass thru; wheel and deal; centers pass thru; star thru**), to get from couple beside to couples facing in the resolution technique.  
+Note also  these calls move from couple-facing-to-couple-beside AND BACK, so a figure with TWO of these will  cancel out (thus ZEROs tend to have an EVEN number of these calls in them (check out the figures in [Square Dance Figures](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit?usp=sharing) and see).   In particular if you flutterwheel (or reverse flutterwheel) and call sweep a quarter, the two ‘cancel out’ and you will NOT change the couple-facing-to-couple-beside property.   Thus instead of **right and left thru; flutterwheel**, you could use recycle (e.g. **pass the ocean; recycle; star thru**) or wheel and deal (e.g. **pass thru; wheel and deal; centers pass thru; star thru**), to get from couple beside to couples facing in the resolution technique.  
 
 ## Use Taminations Sequencer to Practice Resolution
 
 The taminations sequencer is a GREAT way of practicing resolution.   Please see the [Taminations section](05-the-taminations-sequencer-is-indispensable.md) in this document on setting it up well.   You can start right away with the foolproof technique and simply practice it (try it now)    When you can resolve easily using the default setting you are ready for the next step.  
 
 **Tip: Use the Sequencer’s ‘color random’ feature to make resolution more realistic.**  
-In the taminations settings there is a ‘Dancer Color’ setting, and one of the options is ‘random’  If you choose this, then each dancer will be given a different color.   This mimics real life (where people no longer dress alike so you can tell which person goes with which couple).   This makes resolution SIGNIFICANTLY harder.   Thus when resolving when couples are color coded is too easy, this is the next step to take.   Note that you can simply type  ‘color random’ as if it were a call to set this, and ‘color on’ to put it back to its default coloring (you can also go to the settings pane).  
+In the taminations settings there is a ‘Dancer Color’ setting, and one of the options is ‘random’. If you choose this, then each dancer will be given a different color.   This mimics real life (where people no longer dress alike so you can tell which person goes with which couple).   This makes resolution SIGNIFICANTLY harder.   Thus when resolving when couples are color coded is too easy, this is the next step to take.   Note that you can simply type  ‘color random’ as if it were a call to set this, and ‘color on’ to put it back to its default coloring (you can also go to the settings pane).  
 
 Note that the key to mastering random color is to practice the memory techniques mentioned in [Memory practice (who’s your corner?)](01-when-you-are-just-thinking-about-calling.md#memory-practice-whos-your-corner) section.   It is all about discipline (reminding yourself who your focus couple is at regular intervals, until it is easy).   
 
@@ -296,27 +296,27 @@ You can also use any of the SQ4 equivalents to ‘get into’ your group of 4 pe
 
 ### Expanding MORE on foolproof resolution
 
-In the previous section we expanded our choreography out of our group of 4 by adding ANY ZERO we like.    However we can expand this even more with a simple technique.   Previously we disallowed all moves that moved people out of their group of 4   We relax this to allowing other moves, as long as we use them in sequences that bring the group of 4 together again.   For example.  
+In the previous section we expanded our choreography out of our group of 4 by adding ANY ZERO we like.    However we can expand this even more with a simple technique.   Previously we disallowed all moves that moved people out of their group of 4. We relax this to allowing other moves, as long as we use them in sequences that bring the group of 4 together again.   For example.  
 
-1. Trade By  **if you follow it by** a  CKP (e.g. sq3 Trade by) OR a Swing Thru, boys run couples circulate.
-2. Couples Circulate **if you follow it by** another couples circulate OR a ferris wheel centers square thru 3  .
-3. Circulate from Waves **if you follow it by** another circulate, OR swing thru boys run couples circulate.
+1. Trade By  **if you follow it by** a  CKP (e.g. sq3 Trade by) OR a Swing Thru, boys run, couples circulate.
+2. Couples Circulate **if you follow it by** another couples circulate OR a ferris wheel, centers square thru 3.
+3. Circulate from Waves **if you follow it by** another circulate, OR swing thru, boys run, couples circulate.
 4. Wheel and Deal (from lines facing out), **if you follow it by** a centers pass thru
 5. Dive Thru **if you follow it by** a centers square thru 3
 6. Ferris Wheel **if you follow it by** centers pass thru
 
 This is more flexible than the idea of using zeros, because the sequence does not actually have to be a true zero, it just needs to bring the group of 4 people back together.   You can often do this with just one or two more calls (as shown above).   The list above is not exhaustive, and moreover as you can see you can have more than one way of following any particular call.   Typically chunks of singing call figures (that you have already memorized) will work.   Thus you can do this for ANY call you like,  just make sure that you have confirmed in TAMINATIONS that by the time you finish your sequence the same group of 4 people are together on one side of the square (the formation does not matter).  
 
-If your focus couple is REALLY set in your memory (e.g. you know them as a couple, or they are dressed in a way that makes it very obvious they are a couple), then you can extend the technique even further.    The idea is that you get your focus MAN partnered with the lady who is NOT his partner  (which has to be his corner).   You then can call any calls that stay in odd station (see [The Joy of Stations](#the-joy-of-stations), but it is most calls except column circulate and spin chain thru) but you specifically WATCH this MAN and CORNER on EVERY CALL.   You can do this by simply keeping them coupled up, but you can also allow them to leave each other as long as you bring them back together at least every few calls.  By doing this repeatedly, you force yourself to remember these two people.   When the man and his corner are together as a couple, put them on the ends facing in as a couple in a box.   If at this point the MANs ORIGINAL PARTNER is not in the box of 4, then do a chicken plucker and she should be there.   At that point you have reestablished your group of 4, and can resolve using the foolproof resolution technique.
+If your focus couple is REALLY set in your memory (e.g. you know them as a couple, or they are dressed in a way that makes it very obvious they are a couple), then you can extend the technique even further.    The idea is that you get your focus MAN partnered with the lady who is NOT his partner  (which has to be his corner).   You then can call any calls that stay in odd station (see [The Joy of Stations](#the-joy-of-stations), but it is most calls except column circulate and spin chain thru) but you specifically WATCH this MAN and CORNER on EVERY CALL.   You can do this by simply keeping them coupled up, but you can also allow them to leave each other as long as you bring them back together at least every few calls.  By doing this repeatedly, you force yourself to remember these two people.   When the man and his corner are together as a couple, put them on the ends facing in as a couple in a box.   If at this point the MAN’s ORIGINAL PARTNER is not in the box of 4, then do a chicken plucker and she should be there.   At that point you have reestablished your group of 4, and can resolve using the foolproof resolution technique.
 
-What is wonderful about this technique is that the HARDEST thing to do in resolution is REMEMBER a PARTNERSHIP and a CORNER.   But notice this breaks it into two easy pieces.  First find a partnership that is easy (by clothing or existing knowledge).   Then keep your chosen couple and that man’s corner together in a group of 4 for a bit.  When you are ready, break away with the MANs corner using a move like couples circulate that breaks the group of 4  At this point only worry about tracking the MAN and his CORNER.   You can keep them together as a couple for a while, then let them separate for a call or two before bringing them back together.   Keep doing that until it is easy to remember that they are corners.  Finally when you need to resolve, get this man-and-corner on the ends facing in as a couple in a box, if needed use a chicken plucker to get the man's partner in the group of 4, and then resolve as normal for foolproof resolution.   .    
+What is wonderful about this technique is that the HARDEST thing to do in resolution is REMEMBER a PARTNERSHIP and a CORNER.   But notice this breaks it into two easy pieces.  First find a partnership that is easy (by clothing or existing knowledge).   Then keep your chosen couple and that man’s corner together in a group of 4 for a bit.  When you are ready, break away with the MAN’s corner using a move like couples circulate that breaks the group of 4. At this point only worry about tracking the MAN and his CORNER.   You can keep them together as a couple for a while, then let them separate for a call or two before bringing them back together.   Keep doing that until it is easy to remember that they are corners.  Finally when you need to resolve, get this man-and-corner on the ends facing in as a couple in a box, if needed use a chicken plucker to get the man’s partner in the group of 4, and then resolve as normal for foolproof resolution.    
 
 ## When Patter Breaks
 
 Inevitably, you will forget who your focus couple or corner is, or maybe your pilot square breaks, but the result is that you can no longer resolve the square.     You can just tell people to go home, but in most cases that is not optimal.    The goal is to keep them dancing and to ‘simulate’ a successful patter.   You do this by
 
 1. If the break occurred after just a few seconds, just call something until you have had them dancing for 30-60 seconds (a normal length between resolutions).
-2. If you can find SOME couple on the WHOLE floor (e.g a couple dressed alike) bring them together.  For extra credit get them on the ends in boxes (couples facing each other (like the side couples are after the heads square thru 4).
+2. If you can find SOME couple on the WHOLE floor (e.g. a couple dressed alike) bring them together.  For extra credit get them on the ends in boxes (couples facing each other (like the side couples are after the heads square thru 4)).
 3. Call an allemande left, and promenade.    Tell them to fix it on the promenade.
 
 Typically if many squares crashed during a sequence you don’t want to end on that.  Thus pull one of your robust singing call sequences and do a quick patter with that so that you end on success.
@@ -327,7 +327,7 @@ For beginner callers, when patter breaks it is best to keep it simple as mention
 
 What you need to start is 1 couple that you can identify.   If you know the dancers, you probably know a couple that dances together, and that will do the trick. Otherwise look for people who have dressed alike.  Typically you can find at least one such couple on the whole floor.   
 
-Next, make your best guess whether you are in even or odd station (explained later), and if you are in odd station get to even station (again explained later).   Then get your couple together as a couple in lines.     Then ASK THE DANCERS if they are with their partner.   Either everyone will say yes (if you are in even station), or only half the dancers will say yes.   If only half answer yes, then get to even station (e.g. TQ, CIRC, BR, SL), and get your couple back together and ask again.   Now everyone will say yes.    Next call TQ, CIRC, BR, SL, which will get you back to odd station where people are either facing their corner or their right hand lady.   So ask the dancers if this is their CORNER.  If they say yes, do an ALLEMANDE LEFT, if they say no, do a CKP (rlt, pt, tb), and ALLEMANDE LEFT.   Thus with typically 2 questions you can fix any floor.  You can add a bit of showmanship (like saying, OF COURSE it is, or ‘I was just checking if you knew’, or “who put the corner in the wrong place’ …), to turn it into something fun for the dancers.   They will actually be happy that they could help you get THEM home.     
+Next, make your best guess whether you are in even or odd station (explained later), and if you are in odd station get to even station (again explained later).   Then get your couple together as a couple in lines.     Then ASK THE DANCERS if they are with their partner.   Either everyone will say yes (if you are in even station), or only half the dancers will say yes.   If only half answer yes, then get to even station (e.g. TQ, CIRC, BR, SL), and get your couple back together and ask again.   Now everyone will say yes.    Next call TQ, CIRC, BR, SL, which will get you back to odd station where people are either facing their corner or their right hand lady.   So ask the dancers if this is their CORNER.  If they say yes, do an ALLEMANDE LEFT, if they say no, do a CKP (rlt, pt, tb), and ALLEMANDE LEFT.   Thus with typically 2 questions you can fix any floor.  You can add a bit of showmanship (like saying, OF COURSE it is, or ‘I was just checking if you knew’, or “who put the corner in the wrong place” …), to turn it into something fun for the dancers.   They will actually be happy that they could help you get THEM home.     
 
 ## The Joy of Stations
 
@@ -340,7 +340,7 @@ The most important point made in that paper is the concept of a **STATION**.  A 
 - 2/4  Opposite station  
 - 3/4  Right hand lady station
 
-Notice these stations are named for the position of someone else in the square, and I have numbered them by how many ¼ promenades the ladies man need to move to become that person’s partner.     Moreover I will call partner and opposite stations **even stations** (since they are even numbers) and the right hand lady, and corner stations **odd stations**.  
+Notice these stations are named for the position of someone else in the square, and I have numbered them by how many ¼ promenades the man needs to move to become that person’s partner.     Moreover I will call partner and opposite stations **even stations** (since they are even numbers) and the right hand lady, and corner stations **odd stations**.  
 
 Stations are a property of HALF A SQUARE (a group of 4 people).  Consider the following square after the call ‘sides SQ4’ has been called.    
 
@@ -354,7 +354,7 @@ Once we have chosen our line that divides the square in two, we have two groups 
 
 In the example above we say that the square is in **corner station**, because in this group of 4 **everyone is with their corner** in that group of 4 dancers.   Note that stations are pretty robust, because MOST calls do NOT break up the group of 4 (indeed you need 4 dancers to perform the move), and thus you **stay in corner station**.   
 
-Also note that stations require that ALL people on that group of 4 have the relationship.  Notice that the head boy (red)  is with his partner in that box of 4, but we do NOT call this partner station because side dancers (green and yellow) are NOT with their partner in this box of 4   Everyone has to have the SAME relationship, and it is actually somewhat surprising (but true) that in EVERY square you have to be in ONE of the stations (there is no ‘none of the above’ or ‘mixed’ station).   
+Also note that stations require that ALL people on that group of 4 have the relationship.  Notice that the head boy (red)  is with his partner in that box of 4, but we do NOT call this partner station because side dancers (green and yellow) are NOT with their partner in this box of 4. Everyone has to have the SAME relationship, and it is actually somewhat surprising (but true) that in EVERY square you have to be in ONE of the stations (there is no ‘none of the above’ or ‘mixed’ station).   
 
 Now if we do a [CKP sequence](#what-is-a-chicken-plucker-ckp-sequence) (e.g. RLT; PT; TB) we get the following formation
 
@@ -377,10 +377,10 @@ Notice everyone is with their partner, and so we call this **partner station**. 
 *After FL; RLT; PT TB;*
 
 In this case everyone is with their opposite.   This is hard to see because NO one is with their partner.   However if you remember that red’s opposite is blue, and green’s opposite is yellow you can confirm that everyone is with their opposite, so this is **opposite station**.  
-These examples also illustrate a couple important properties
+These examples also illustrate a couple of important properties:
 
 1. In **odd** stations (corner or right-hand-lady), **EXACTLY one couple is together** (an odd number) in the group of 4
-2. In **even** stations (partner or opposite) either **two couples or no couples are together** (an even number) In the group of 4
+2. In **even** stations (partner or opposite) either **two couples or no couples are together** (an even number) in the group of 4
 
 These properties are true in general.   Now we see why sometimes when we are in lines everyone is coupled up (even station) or just two of the 4 couples are (odd station).   
 
@@ -388,7 +388,7 @@ There is another property that is good to notice
 
 - It is pretty **easy to move among odd stations** (a CKP will do it), **or among even stations** (a flutterwheel (or any of the other flutterwheel-like moves change the [couple-facing-couple-beside](#couple-beside-to-couple-facing-calls) property) and a CKP will do it.
 
-It turns out the another really important property is the reverse 
+It turns out another really important property is the reverse 
 
 - It is **hard to move from an even station to an odd station** or back.
 
@@ -401,7 +401,7 @@ The reason is that in order to move from an even station to an odd station (or b
 
 These are ALL RARE.   If you were ‘just calling’ you probably would not think to call any of these moves.    Thus once you are in even station you will probably stay in even station unless you purposefully do one of the things above.
 
-Beginner callers that don’t understand what we have just discussed can often get ‘stuck’ trying to resolve because they get in opposite station (where no couples seem to be near each other), and they can’t seem to get their focus couple together.    The standard advice for callers who can’t seem to get their couple together is to call  ACEY-DUECY (ends circulate centers trade) which will change you from even station (where you might be in opposite station), to odd station (where there will be a couple together in each group of 4 GUARANTEED)
+Beginner callers that don’t understand what we have just discussed can often get ‘stuck’ trying to resolve because they get in opposite station (where no couples seem to be near each other), and they can’t seem to get their focus couple together.    The standard advice for callers who can’t seem to get their couple together is to call  ACEY-DEUCEY (ends circulate centers trade) which will change you from even station (where you might be in opposite station), to odd station (where there will be a couple together in each group of 4 GUARANTEED)
 
 **Tip:**  **When starting out, avoid even stations**.     When you do a SQ4 or a SQ2 you end in **odd station**, and so if you don’t call one of the 4 things above, you will stay in **odd station**.   Note that LR (lead right) from a static square will put you in **even** station, so to follow this tip, either don’t call lead right OR IMMEDIATELY follow it by one of the 4 things above (e.g.   lead-right; swing-thru; girls-circ; boys-trade, or lead-right; star-thru; touch-a-quarter; column-circ; boys-run)
 
@@ -417,7 +417,7 @@ So all of this suggests the next step in your ability to resolve.   Once you hav
 2. Start your figures so you end up in odd station (e.g. SQ4, or LR followed by something that flips you to odd station).
 3. Don’t call anything that will change station parity (that is, stay in odd station).  This is VERY easy to do (avoid columns and asking half the square to do something).
 4. When you are ready to resolve, move your focus couple to the end of the line facing in (just like you did in the foolproof resolution technique).
-5. At this point EITHER your focus couple is next to your REMEMBERED corner, or NOT (in which case it HAS to be the right hand lady (but you did not remember the right hand lady,, you just know it was not the corner).
+5. At this point EITHER your focus couple is next to your REMEMBERED corner, or NOT (in which case it HAS to be the right hand lady (but you did not remember the right hand lady, you just know it was not the corner)).
 6. If the focus couple is NOT next to the corner, then do a CKP.  That WILL bring the corner next to your focus couple and the square is resolved.
 
 It turns out, that step 4 (Bringing your focus couple to the end of line), is a bit harder than it was in ‘foolproof resolution’   That is because in foolproof resolution, the focus couple could not ‘escape’ its group of 4, and thus the couple was already ‘near’ each other.    So it is helpful to know techniques to bring two people together as a couple.     Here is a technique to do it (there are many others).  
@@ -427,7 +427,7 @@ It turns out, that step 4 (Bringing your focus couple to the end of line), is a 
 
     ![Two-faced lines with the red couple in different lines](images/two-faced-lines-couple-split.png)
 
-    Notice if we circulated from here both red people move to a new  line (you can also have the situation where both red people stay in their current line).  Thus in this formation circulate will NOT get us what we want (our focus couple in the same line).   Fixing this is easy.   Simply call girls (or centers) trade.   This give us 
+    Notice if we circulated from here both red people move to a new  line (you can also have the situation where both red people stay in their current line).  Thus in this formation circulate will NOT get us what we want (our focus couple in the same line).   Fixing this is easy.   Simply call girls (or centers) trade.   This gives us 
 
     ![After Girls Trade](images/after-girls-trade.png)
 
@@ -470,9 +470,9 @@ Of the two, the first choice is easier, because you only have to remember one bi
 
 **Tip:  Any time you change to even station, cross your fingers (or change the hand you hold your mic with)**.   Uncross them when you are back in odd station.   This way you are not REMEMBERING anything, your FINGERS are.  
 
-Notice you can call ANYTHING you like and you can always resolve knowing only a focus couple and a corner (and if you are in odd station).    The way is straightforward.  If you are in even station, get out of it (e.g. do a column circulate or and acey deucey).  Then resolve as in the ‘stay in odd station’ technique.   
+Notice you can call ANYTHING you like and you can always resolve knowing only a focus couple and a corner (and if you are in odd station).    The way is straightforward.  If you are in even station, get out of it (e.g. do a column circulate or an acey deucey).  Then resolve as in the ‘stay in odd station’ technique.   
 
-If you want to try option 2, the technique is simple enough.   Get your focus couple together and get to lines.   Either BOTH of your remembered couples (you are remembering 4 people now), are coupled up or only one of them is.   If both of them are coupled up, you are in partner station (which is even), so switch to odd, and then resolve as normal (So the only reason you remembered that 4th person is to figure out if you are in even or odd station).   
+If you want to try option 2, the technique is simple enough.   Get your focus couple together and get to lines.   Either BOTH of your remembered couples (you are remembering 4 people now), are coupled up or only one of them is.   If both of them are coupled up, you are in partner station (which is even), so switch to odd, and then resolve as normal (so the only reason you remembered that 4th person is to figure out if you are in even or odd station).   
 
 ## Direct Resolution from Even Station
 
@@ -488,7 +488,7 @@ To resolve when you know you are in even station
 
 That is it!    This is so simple that you have to wonder why I suggest resolving from odd station.  Why not stay in even station, and resolution is so easy?   There are a few reasons.  
 
-1. Even station include opposite station, in which NO ONE is coupled up.   This is SO disorienting for beginner callers, that it is ‘dangerous’ (I can’t get my focus couple together).   Odd station always has a couple near each other, which is very helpful.
+1. Even station includes opposite station, in which NO ONE is coupled up.   This is SO disorienting for beginner callers, that it is ‘dangerous’ (I can’t get my focus couple together).   Odd station always has a couple near each other, which is very helpful.
 2. MANY singing call figures are exclusively in odd station.   Thus odd station is very ‘familiar’ to both dancers and callers.
 3. When you resolve from even station directly, you end in a trade-by configuration when you allemande left.   Beginner dancers find that disorienting.   Odd (corner) station has more options (boxes, waves, lines facing out).
 
@@ -519,4 +519,4 @@ These calls along with the ones from the first lesson (in particular ladies chai
 
 This is enough to do the resolution techniques described previously.   You don’t have any way of moving from even to odd station (unless you teach girls circulate from 2-faced lines) but you can use the direct resolution from even station technique so you never need to go from even to odd station.  
 
-And of course you can always use ONLY the singing call figures in [Early Dances](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit#gid=1969018810) and thus never get the squares messed up in the first place.   This might be the best answer.  After a couple more lessons, you can resolve the way you normally would, so this problem goes away quickly enough.   .
+And of course you can always use ONLY the singing call figures in [Early Dances](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit#gid=1969018810) and thus never get the squares messed up in the first place.   This might be the best answer.  After a couple more lessons, you can resolve the way you normally would, so this problem goes away quickly enough.
