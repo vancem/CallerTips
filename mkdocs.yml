@@ -1,0 +1,72 @@
+site_name: CallerTips
+site_url: https://vancem.github.io/CallerTips/
+site_description: >-
+  CallerTips: free, practical advice for new and aspiring square dance callers -
+  your first singing call, resolving the square, stations, the Taminations
+  sequencer, equipment, progressive squares and more.
+site_author: Vance Morrison
+repo_url: https://github.com/vancem/CallerTips
+repo_name: vancem/CallerTips
+copyright: Copyright &copy; 2024-2026 Vance Morrison
+
+theme:
+  name: material
+  features:
+    - navigation.footer
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+
+validation:
+  anchors: warn
+
+plugins:
+  - search
+  - print-site:
+      add_to_navigation: true
+      print_page_title: "Print / PDF (whole book)"
+      add_print_site_banner: false
+      add_cover_page: true
+      enumerate_headings: true
+      enumerate_headings_depth: 1
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vancem/CallerTips
+      name: CallerTips on GitHub
+
+nav:
+  - Introduction: index.md
+  - "When You Are Just Thinking About Calling": 01-when-you-are-just-thinking-about-calling.md
+  - "The Progression to Becoming a Caller": 02-the-progression-to-becoming-a-caller.md
+  - "Your First Singing Call": 03-your-first-singing-call.md
+  - "Equipment and Software You will Need": 04-equipment-and-software-you-will-need.md
+  - "The Taminations Sequencer Is INDISPENSABLE": 05-the-taminations-sequencer-is-indispensable.md
+  - "Learning to Resolve a Square": 06-learning-to-resolve-a-square.md
+  - "Rules for Good Patter": 07-rules-for-good-patter.md
+  - "CallerBuddy For Playing Music": 08-callerbuddy-for-playing-music.md
+  - "No Experience Necessary Dances": 09-no-experience-necessary-dances.md
+  - "Advanced Things": 10-advanced-things.md

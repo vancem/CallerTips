@@ -1,0 +1,12 @@
+/* Center figures on the published site. The Markdown stays plain, so other renderers are unaffected. */
+
+/* Figure tables (images with their column labels). */
+.md-typeset__scrollwrap {
+  text-align: center;
+}
+
+/* A paragraph holding only images, and the italic caption paragraph right after it. */
+.md-typeset p:has(> img):not(:has(> :not(img))),
+.md-typeset p:has(> img):not(:has(> :not(img))) + p:has(> em:only-child) {
+  text-align: center;
+}
