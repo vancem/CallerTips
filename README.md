@@ -11,6 +11,9 @@ progressive squares and six-couple squares.
 It is a companion to [CallerBuddy](https://github.com/vancem/CallerBuddy), a music player
 and lyric manager for square dance callers.
 
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+You may share and adapt this book for any purpose, provided you give credit.
+
 ## How the site is built
 
 The book is plain Markdown: one file per chapter in `docs/`, with images in `docs/images/`.

@@ -123,19 +123,25 @@ h sq2; st; br; circ; cdtl; fl saq;
 
 Which happens to be the SQ2-CDTL-FL figure in  [Square Dance Figures](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit?usp=sharing).   Notice it begins with SQ2 (so the rest of the sequence starts across the street), and it ends in a corner box (because the spreadsheet’s ‘End’ column is c-box) which means you are facing your corner.     Thus the sequence without the sq2:
 
+```
 st; br; circ; cdtl; fl saq;
+```
 
 Is a sequence that starts ‘across the street’ and ends facing your corner.   But a sequence that does this is a Chicken Plucker (CKP).   Thus we have found a NEW CKP sequence ‘hiding’ in our singing call.   And we have ALREADY memorized this sequence because it is a good singing call     SCORE   
 
 And it gets better.   If you stack two CKP sequences together, they go across the street and come back, which is a ZERO.    Thus we could turn the sequence above into a ZERO by putting another CKP sequence either in front of it or behind it.   For example
 
+```
 rlt; pt; tb;      st; br; circ; cdtl; fl saq;
+```
 
 Is a zero because it is simply two CKP sequences back to back.   
 
 So we can find CKP sequences in figures that begin with SQ2.   If figures begin with SQ4 (or with prom ½; sq2, which we know does the same thing (across the street and back)), we can find ZEROS.   .  For example another sequence from [Square Dance Figures](https://docs.google.com/spreadsheets/d/1gVKHymIl4wy7DxqTW0ZrK7qhrNoGjJMnaHkxOlATpME/edit?usp=sharing) is PROM-RFL
 
+```
 h prom 1/2; h sq2; rlt; vl; btl; rfl; sl;
+```
 
 We see that h prom ½ takes you across the street and sq2 brings you back (just like SQ4).  The rest of the sequence ends in a c-box so it must be a ZERO (it starts in a corner box and it ends in a corner box).  
 

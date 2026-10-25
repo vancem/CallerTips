@@ -7,6 +7,8 @@ description: "CallerTips: free, practical advice for new and aspiring square dan
 
 By Vance Morrison    4/2024
 
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may share and adapt this book for any purpose, provided you give credit.
+
 ## Target Audience
 
 This document is for people who are just starting out (or just thinking about) square dance calling.   You may have taken a short ‘course’ on calling, or maybe you have been mentored by a more experienced caller, or maybe you are just thinking about being a square dance caller.   
