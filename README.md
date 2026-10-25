@@ -20,7 +20,7 @@ The book is plain Markdown: one file per chapter in `docs/`, with images in `doc
 The chapter order is the `nav` list in `mkdocs.yml`.
 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) turns the pages into the
 website, and the `Deploy site` GitHub Action publishes it to GitHub Pages on every push
-to `main`.
+to `main`. Later work is listed in [TODO.md](TODO.md).
 
 To preview locally:
 
