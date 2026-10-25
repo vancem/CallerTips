@@ -1,0 +1,21 @@
+---
+description: Keep diffs small by avoiding needless line changes and reformatting
+alwaysApply: true
+---
+
+# Minimal diffs
+
+Change only the lines the task requires. Extra edits make review harder.
+
+- Do not reformat, rewrap, reindent, or restyle code you are not changing.
+- Do not reorder imports, rename symbols, or "clean up" surrounding code unless that is the task.
+- Preserve existing quotes, spacing, trailing whitespace, and line endings.
+- Do not run a formatter or linter autofix across a whole file. If a tool would rewrite unrelated lines, skip it.
+- When editing, match the style already on the lines you touch.
+
+```text
+❌ BAD — a one-line logic fix that also rewraps and reindents the function
+✅ GOOD — the same fix, with every other line left exactly as it was
+```
+
+If a necessary change forces nearby lines to move (for example, adding a parameter), keep that movement as small as possible.
