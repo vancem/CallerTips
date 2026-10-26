@@ -147,7 +147,7 @@ Or
 ```
 h prom ½;       - get across the street;
 h sq2;          - get back
-rlt; pt; tb;     - go across again
+rlt; pt; tb;    - go across again
 rlt; pt; tb;    - go back (again)
 al              - allemande left (to finish it off)
 ```
@@ -161,7 +161,7 @@ Thus you can fix the previous sequence to be
 ```
 h prom ½;      - get across the street;
 h sq2;         - get back
-rlt; pt; tb;    - go across again
+rlt; pt; tb;   - go across again
 sq3; tb;       - go back (again)    (33 beats  to get here)
 al             - allemande left (to finish it off)
 ```
