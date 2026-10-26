@@ -252,15 +252,15 @@ And thus any singing call figures you already know, can also be  used to make
 zeros and CKP sequences to make interesting patter.   
 
 Even the singing call sequences that end in waves or lines facing out  can be
-used, you just have to modify the endings so that they end in a c-box instead.
-For example many figures that end with lines-out ended with a SQ3 to get there.
+used, you just have to modify the endings so that they end in a box formation instead.
+For example many figures that end with lines facing out have SQ3 as their last call in the sequence.
 If instead of SQ3 you do a RLT; SRT; it changes it so that you are facing your
 corner rather than facing out with your corner.   Thus those sequences can be
 used as well.   We have already talked about if a figure ends in gbgb-wave you
-can add **br; rlt; sl;** to get to a c-box, so you can convert these sequences
+can add **br; rlt; sl;** to get to a box, so you can convert these sequences
 to zeros or CKPs as well.  
 
-So in short those 4 singing call figures you memorized will come in quite handy
+So in short, any singing call figures you memorized will come in quite handy
 in your patter.   
 
 ## Leveraging the ‘ocean wave-facing couples’ rule
@@ -307,9 +307,12 @@ Finally it should be noted that the VERY COMMON sequence
 
 It is just that the first only works from facing couples, and the later will
 work there as well as waves.   Another useful piece of information is that **st;
-br;** takes about 3 beats LONGER than **rlt; vl;**, so this can help you speed
-up or slow down a singing call figure to make it work optimally for your
-dancers.   
+br;** takes about 3 beats LONGER than **rlt; vl;**, so if your sequence with **rlt; vl;**
+is too short you can 'pad' it a bit by using **st; br;** instead.  Conversely
+if your sequence with **st; br;** is taking too much time, you can speed it up
+by switching to **rlt; vl;**. This is handy when designing singing call choreography
+because for that, it is important that the figure take exactly the amount of
+time the song gives you (typically 36-38 beats for the whole figure). 
 
 You now have MANY building blocks in which to ‘play’ with patter modules.   You
 know how to get ‘across the street’ MANY different ways, including with ocean
@@ -582,22 +585,53 @@ circulate and spin chain thru) but you specifically WATCH this MAN and CORNER on
 EVERY CALL.   You can do this by simply keeping them coupled up, but you can
 also allow them to leave each other as long as you bring them back together at
 least every few calls.  By doing this repeatedly, you force yourself to remember
-these two people.   When the man and his corner are together as a couple, put
-them on the ends facing in as a couple in a box.   If at this point the MAN’s
-ORIGINAL PARTNER is not in the box of 4, then do a chicken plucker and she
-should be there.   At that point you have reestablished your group of 4, and can
-resolve using the foolproof resolution technique.
+these two people (Because they are always together and or you are thinking about
+putting them together).   
+
+Lets assume red was are 'easy' couple to find, and since yellow is the red man's
+corner you have been keeping them together as a couple.   Lets imagine
+that this is where the square is when you want to resolve.  (notice the red
+man is partnered with his corner because your mission was to keep these two
+people as partners most of the time.  
+
+![Red man with Corner](images/cornerTogether.png)
+
+*Red man with Corner*
+
+From here the first step in resolution is to get them on the 'ends' of a boxes.  
+To do this you have to use one of the [couple-facing-couple-beside](#couple-beside-to-couple-facing-calls) calls and then RLT or SRT to get them
+on the ends (for example RLT; FL; SRT)  The result is this formation
+
+![Red Man with Corner on Ends](images/cornerTogetherEnd.png)
+
+*Red Man with Corner on Ends*
+
+At this point you just check if for focus (red) man is facing his partner.
+If the answer is YES, then you are back to corner station (where your focus
+couple and corner are in the same group of four).  If not we need to make 
+this so, and we do that with a chicken plucker (CKP).  This HAS to work 
+(assuming you did not break the rules about staying in odd station) After
+the CHK we have the following formation
+
+![Focus couple and corner in group of 4](images/cornerTogetherAfterCKP.png)
+
+*Focus couple and corner in group of 4*
+
+At this point we are back to foolproof resolution.  We get to lines (SRT), 
+we get our focus couple facing each other (RLT FL), get the focus couple
+on the end (RLT) and get the red man facing his corner (SRT)  The result
+is a resolved square
+
+![Final Resolved Square](images/cornerTogetherResolved.png)
+
+*Final Resolved Square*
 
 What is wonderful about this technique is that the HARDEST thing to do in
 resolution is REMEMBER a PARTNERSHIP and a CORNER.   But notice this breaks it
 into two easy pieces.  First find a partnership that is easy (by clothing or
-existing knowledge).   Then keep your chosen couple and that man’s corner
-together in a group of 4 for a bit.  When you are ready, break away with the
-MAN’s corner using a move like couples circulate that breaks the group of 4. At
-this point only worry about tracking the MAN and his CORNER.   You can keep them
-together as a couple for a while, then let them separate for a call or two
-before bringing them back together.   Keep doing that until it is easy to
-remember that they are corners.  Finally when you need to resolve, get this
+existing knowledge).   Then get to [odd station](#the-joy-of-stations) (e.g. call SQ4), and stay there (e.g. don't call column circulates) but DO bring the focus couple's man together with his corner, and move them around the square together.   They can separate, but
+when they do it is your IMMEDIATE mission to bring them back.
+Finally when you need to resolve, get this
 man-and-corner on the ends facing in as a couple in a box, if needed use a
 chicken plucker to get the man’s partner in the group of 4, and then resolve as
 normal for foolproof resolution.    
