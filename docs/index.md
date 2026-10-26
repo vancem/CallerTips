@@ -20,7 +20,7 @@ thinking about being a square dance caller.
 There are plenty of square dance callers who are more experienced than I (I have
 only been calling for several years), or have been teaching calling (I have
 never done that), but I have one advantage over all of them:  **I still remember
-the things I had to learn ‘the hard way’**.   I also have learned relatively
+the things I had to learn ‘the hard way’**.   I also have learned to call relatively
 recently, so I learned AFTER things like
 [Taminations](https://www.tamtwirlers.org/taminations/),
 [SqView](https://sqview.se/download.php), [music for
