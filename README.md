@@ -1,4 +1,4 @@
-# CallerTips: Caller Tips I Wish I Had Been Given
+# CallerTips: Tips for New Square Dance Callers
 
 **Read it online: <https://vancem.github.io/CallerTips/>**
 

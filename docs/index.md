@@ -1,9 +1,9 @@
 ---
-title: "Caller Tips I Wish I Had Been Given"
+title: "Tips for New Square Dance Callers"
 description: "CallerTips: free, practical advice for new and aspiring square dance callers - your first singing call, resolving the square, stations, the Taminations sequencer, equipment, progressive squares and more."
 ---
 
-# Caller Tips I Wish I Had Been Given
+# Tips for New Square Dance Callers
 
 By Vance Morrison    4/2024
 
