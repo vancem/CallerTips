@@ -22,9 +22,11 @@ The chapter order is the `nav` list in `mkdocs.yml`.
 website, and the `Deploy site` GitHub Action publishes it to GitHub Pages on every push
 to `main`. Later work is listed in [TODO.md](TODO.md).
 
-To preview locally:
+To preview locally, use Python 3.13. PyYAML has no Windows wheel for Python 3.15, so `pip` on that interpreter tries to compile it and stops.
 
 ```
-pip install -r requirements.txt
-mkdocs serve        # preview at http://127.0.0.1:8000/CallerTips/
+py -3.13 -m pip install -r requirements.txt
+py -3.13 -m mkdocs serve
 ```
+
+The preview is at <http://127.0.0.1:8000/CallerTips/>.
