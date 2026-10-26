@@ -575,30 +575,30 @@ confirmed in TAMINATIONS that by the time you finish your sequence the same
 group of 4 people are together on one side of the square (the formation does not
 matter).  
 
+### Expanded Foolproof resolution by keeping your corner
+
 If your focus couple is REALLY set in your memory (e.g. you know them as a
 couple, or they are dressed in a way that makes it very obvious they are a
-couple), then you can extend the technique even further.    The idea is that you
-get your focus MAN partnered with the lady who is NOT his partner  (which has to
-be his corner).   You then can call any calls that stay in odd station (see [The
-Joy of Stations](#the-joy-of-stations), but it is most calls except column
-circulate and spin chain thru) but you specifically WATCH this MAN and CORNER on
+couple), then you can extend the foolproof technique even further.
+The idea is that you get your focus MAN partnered with his corner.
+You then can call any calls that stay in odd station (see [The
+Joy of Stations](#the-joy-of-stations)), which is VERY easy to do (avoid spin
+chain thru and column circulate), but you specifically WATCH this MAN and CORNER on
 EVERY CALL.   You can do this by simply keeping them coupled up, but you can
-also allow them to leave each other as long as you bring them back together at
-least every few calls.  By doing this repeatedly, you force yourself to remember
+also allow them to leave each other as long as you bring them back together as 
+a couple at least every few calls.  By doing this repeatedly, you force yourself to remember
 these two people (Because they are always together and or you are thinking about
 putting them together).   
 
 Lets assume red was are 'easy' couple to find, and since yellow is the red man's
 corner you have been keeping them together as a couple.   Lets imagine
-that this is where the square is when you want to resolve.  (notice the red
-man is partnered with his corner because your mission was to keep these two
-people as partners most of the time.  
+that this is where the square is when you want to resolve.
 
 ![Red man with Corner](images/cornerTogether.png)
 
 *Red man with Corner*
 
-From here the first step in resolution is to get them on the 'ends' of a boxes.  
+From here the first step in resolution is to get them on the 'ends' of boxes.
 To do this you have to use one of the [couple-facing-couple-beside](#couple-beside-to-couple-facing-calls) calls and then RLT or SRT to get them
 on the ends (for example RLT; FL; SRT)  The result is this formation
 
@@ -609,8 +609,8 @@ on the ends (for example RLT; FL; SRT)  The result is this formation
 At this point you just check if for focus (red) man is facing his partner.
 If the answer is YES, then you are back to corner station (where your focus
 couple and corner are in the same group of four).  If not we need to make 
-this so, and we do that with a chicken plucker (CKP).  This HAS to work 
-(assuming you did not break the rules about staying in odd station) After
+this so, and we do that with a chicken plucker (CKP).  This HAS to work
+(assuming you did not break the rules about staying in odd station). After
 the CHK we have the following formation
 
 ![Focus couple and corner in group of 4](images/cornerTogetherAfterCKP.png)
@@ -627,10 +627,14 @@ is a resolved square
 *Final Resolved Square*
 
 What is wonderful about this technique is that the HARDEST thing to do in
-resolution is REMEMBER a PARTNERSHIP and a CORNER.   But notice this breaks it
+resolution is REMEMBER a PARTNERSHIP and a CORNER.   But notice this breaks this 
+hard problem
 into two easy pieces.  First find a partnership that is easy (by clothing or
-existing knowledge).   Then get to [odd station](#the-joy-of-stations) (e.g. call SQ4), and stay there (e.g. don't call column circulates) but DO bring the focus couple's man together with his corner, and move them around the square together.   They can separate, but
-when they do it is your IMMEDIATE mission to bring them back.
+existing knowledge).   Then get to [odd station](#the-joy-of-stations)
+(e.g. call SQ4), and stay there (e.g. don't call column circulates or boys/girls circulate)
+but DO bring  the focus couple's man together with his corner, and move them around the square 
+together.   They can separate, but when they do it is your IMMEDIATE mission to 
+bring them back into partnership.
 Finally when you need to resolve, get this
 man-and-corner on the ends facing in as a couple in a box, if needed use a
 chicken plucker to get the man’s partner in the group of 4, and then resolve as
@@ -640,9 +644,9 @@ normal for foolproof resolution.
 
 Inevitably, you will forget who your focus couple or corner is, or maybe your
 pilot square breaks, but the result is that you can no longer resolve the
-square.     You can just tell people to go home, but in most cases that is not
-optimal.    The goal is to keep them dancing and to ‘simulate’ a successful
-patter.   You do this by
+square.  You can just tell people to go home, but in most cases that is not
+optimal.  The goal is to keep them dancing and to ‘simulate’ a successful
+patter.  You do this by
 
 1. If the break occurred after just a few seconds, just call something until you
    have had them dancing for 30-60 seconds (a normal length between
@@ -669,9 +673,9 @@ dancers, you probably know a couple that dances together, and that will do the
 trick. Otherwise look for people who have dressed alike.  Typically you can find
 at least one such couple on the whole floor.   
 
-Next, make your best guess whether you are in even or odd station (explained
-later), and if you are in odd station get to even station (again explained
-later).   Then get your couple together as a couple in lines.     Then ASK THE
+Next, make your best guess whether you are in even or [odd station](the-joy-of-stations) (explained
+later), and if you are in odd station get to [even station](the-joy-of-stations) (again explained
+later).   Then get your couple together as a couple in lines.  Then ASK THE
 DANCERS if they are with their partner.   Either everyone will say yes (if you
 are in even station), or only half the dancers will say yes.   If only half
 answer yes, then get to even station (e.g. TQ, CIRC, BR, SL), and get your
