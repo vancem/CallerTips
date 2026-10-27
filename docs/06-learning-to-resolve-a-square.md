@@ -580,7 +580,7 @@ matter).
 If your focus couple is REALLY set in your memory (e.g. you know them as a
 couple, or they are dressed in a way that makes it very obvious they are a
 couple), then you can extend the foolproof technique even further.
-The idea is that you get your focus MAN partnered with his corner.
+The idea is that you get your focus man partnered with his corner.
 You then can call any calls that stay in odd station (see [The
 Joy of Stations](#the-joy-of-stations)), which is VERY easy to do (avoid spin
 chain thru and column circulate), but you specifically WATCH this MAN and CORNER on
