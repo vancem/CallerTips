@@ -7,7 +7,7 @@ site_description: >-
 site_author: Vance Morrison
 repo_url: https://github.com/vancem/CallerTips
 repo_name: vancem/CallerTips
-copyright: Copyright &copy; 2024-2026 Vance Morrison. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+copyright: Copyright &copy; 2024-2026 <a href="https://vancem.github.io/VancePMorrison/">Vance Morrison</a>. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 
 theme:
   name: material

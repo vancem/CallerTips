@@ -5,7 +5,7 @@ description: "CallerTips: free, practical advice for new and aspiring square dan
 
 # Tips for New Square Dance Callers
 
-By Vance Morrison    4/2024
+By [Vance Morrison](https://vancem.github.io/VancePMorrison/)    4/2024
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You
 may share and adapt this book for any purpose, provided you give credit.

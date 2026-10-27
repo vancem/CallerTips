@@ -2,7 +2,7 @@
 
 **Read it online: <https://vancem.github.io/CallerTips/>**
 
-CallerTips is a free guide for new and aspiring square dance callers by Vance Morrison.
+CallerTips is a free guide for new and aspiring square dance callers by [Vance Morrison](https://vancem.github.io/VancePMorrison/).
 It covers your first singing call, learning to resolve a square (stations, zeros,
 chicken pluckers, foolproof two-couple resolution), using the Taminations sequencer,
 microphones and sound equipment, rules for good patter, no-experience-necessary dances,
